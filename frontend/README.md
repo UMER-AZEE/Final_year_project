@@ -1,6 +1,10 @@
 # Sentinel AI frontend — local development
 
-Run `npm ci`, then `npm run dev`. The Vite development server proxies `/api` to `http://127.0.0.1:8000`; start the backend as described in [backend/README.md](../backend/README.md). Run `npm run lint` and `npm run build` before handing off changes.
+1. Open a terminal in `frontend` and use Node.js 22, the version pinned in `.node-version`.
+2. Install dependencies with `npm ci` and start Vite with `npm run dev`.
+3. Start the backend on port 8000 in a second terminal. Vite forwards `/api` requests to `http://127.0.0.1:8000`. [Backend setup](../backend/README.md)
+
+Run `npm run lint` and `npm run build` before handing off changes.
 
 Administration pages manage users, groups, policies, integrations, and organization settings. Prompt Studio enforces applicable input and output policies. Its history stores conversations, with multiple messages per chat, and supports continuing a chat after reload. Each follow-up rechecks recent allowed conversation context against the current policies; blocked, failed, withheld, and expired messages are excluded. Earlier standalone runs remain available as separate chats.
 
