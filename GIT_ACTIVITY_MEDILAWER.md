@@ -14,3 +14,4 @@ They are not project implementation milestones.
 - Marker 4/10: staging changes.
 - Marker 5/10: commit messages.
 - Marker 6/10: history inspection.
+- Marker 7/10: file differences.
