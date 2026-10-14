@@ -17,3 +17,4 @@ They are not project implementation milestones.
 - Marker 7/10: file differences.
 - Marker 8/10: author identity.
 - Marker 9/10: remote tracking.
+- Marker 10/10: push preparation.
