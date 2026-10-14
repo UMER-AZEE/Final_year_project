@@ -9,3 +9,4 @@ They are not project implementation milestones.
 ## Completed markers
 
 - Marker 1/10: repository access.
+- Marker 2/10: local checkout.
