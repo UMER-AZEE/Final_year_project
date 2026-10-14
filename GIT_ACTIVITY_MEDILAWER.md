@@ -16,3 +16,4 @@ They are not project implementation milestones.
 - Marker 6/10: history inspection.
 - Marker 7/10: file differences.
 - Marker 8/10: author identity.
+- Marker 9/10: remote tracking.
