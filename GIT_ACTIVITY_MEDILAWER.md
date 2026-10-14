@@ -15,3 +15,4 @@ They are not project implementation milestones.
 - Marker 5/10: commit messages.
 - Marker 6/10: history inspection.
 - Marker 7/10: file differences.
+- Marker 8/10: author identity.
