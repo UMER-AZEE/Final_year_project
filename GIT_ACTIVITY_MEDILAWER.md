@@ -12,3 +12,4 @@ They are not project implementation milestones.
 - Marker 2/10: local checkout.
 - Marker 3/10: working directory.
 - Marker 4/10: staging changes.
+- Marker 5/10: commit messages.
